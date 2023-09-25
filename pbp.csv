@@ -1,0 +1,63 @@
+Game,Team,Try,Player
+1,England,3,Player1
+1,England,2,Player2
+1,England,4,Player3
+2,England,1,Player4
+2,England,2,Player5
+3,England,1,Player6
+3,England,3,Player7
+3,England,2,Player8
+1,New Zealand,4,Player9
+1,New Zealand,2,Player10
+1,New Zealand,3,Player11
+2,New Zealand,1,Player12
+2,New Zealand,3,Player13
+2,New Zealand,2,Player14
+3,New Zealand,2,Player15
+3,New Zealand,4,Player16
+3,New Zealand,1,Player17
+1,South Africa,2,Player18
+1,South Africa,1,Player19
+1,South Africa,4,Player20
+2,South Africa,3,Player21
+2,South Africa,1,Player22
+2,South Africa,2,Player23
+3,South Africa,4,Player24
+3,South Africa,3,Player25
+3,South Africa,1,Player26
+1,Australia,3,Player27
+1,Australia,1,Player28
+1,Australia,2,Player29
+2,Australia,4,Player30
+2,Australia,5,Player31
+2,Australia,3,Player32
+3,Australia,1,Player33
+3,Australia,5,Player34
+3,Australia,2,Player35
+1,Ireland,2,Player36
+1,Ireland,4,Player37
+1,Ireland,3,Player38
+2,Ireland,1,Player39
+2,Ireland,5,Player40
+2,Ireland,2,Player41
+3,Ireland,3,Player42
+3,Ireland,1,Player43
+3,Ireland,4,Player44
+1,France,4,Player45
+1,France,2,Player46
+1,France,1,Player47
+2,France,3,Player48
+2,France,4,Player49
+2,France,5,Player50
+3,France,2,Player51
+3,France,3,Player52
+3,France,1,Player53
+1,Wales,3,Player54
+1,Wales,2,Player55
+1,Wales,4,Player56
+2,Wales,5,Player57
+2,Wales,1,Player58
+2,Wales,3,Player59
+3,Wales,2,Player60
+3,Wales,1,Player61
+3,Wales,4,Player62
